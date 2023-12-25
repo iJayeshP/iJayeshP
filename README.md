@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
 <h3 align="center">I'm a passionate Computer Science student with a strong interest in mobile app development, looking forward to explore and create some amazing experiences on mobile devices with the core knowledge of computer science.</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-patil-8i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-patil-8i/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jayesh-patil-8i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-patil-8i/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
