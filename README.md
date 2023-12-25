@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
 <h3 align="center">I'm a passionate Computer Science student with a strong interest in mobile app development, looking forward to explore and create some amazing experiences on mobile devices with the core knowledge of computer science.</h3>
 
-- 🌱 I’m currently learning **SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
