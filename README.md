@@ -4,7 +4,9 @@ I'm a **BSc Computer Science** graduate passionate about **native Android app de
 
 With a strong focus on creating **intuitive** and **user-centric mobile applications**, I aim to deliver seamless **user experiences** through clean code and thoughtful design. Whether it's solving complex problems or enhancing app performance, I enjoy every part of the development process.
 
-I’m always on the lookout for **new opportunities**, exciting **collaborations**, and meaningful discussions around **mobile app development**. Feel free to connect if you'd like to chat about **potential projects** or share insights.
+I’m always open to **new opportunities**, exciting **collaborations**, and meaningful discussions about **mobile app development**. Let’s connect and explore how we can create something amazing together! 🚀
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -14,18 +16,28 @@ I’m always on the lookout for **new opportunities**, exciting **collaborations
 ![Python](https://skillicons.dev/icons?i=python)
 
 ### **Frameworks & Tools**  
-![Android](https://skillicons.dev/icons?i=androidstudio)  
-![Firebase](https://skillicons.dev/icons?i=firebase) 
-![AWS](https://skillicons.dev/icons?i=aws) 
-![Flutter](https://skillicons.dev/icons?i=flutter) 
+![Android Studio](https://skillicons.dev/icons?i=androidstudio) 
+![Flutter](https://skillicons.dev/icons?i=flutter)  
+![Unity](https://skillicons.dev/icons?i=unity)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![AWS](https://skillicons.dev/icons?i=aws)  
+![MySQL](https://skillicons.dev/icons?i=mysql) 
 
-### **Version Control**  
+### **Development Tools**  
+![VS Code](https://skillicons.dev/icons?i=vscode) 
 ![Git](https://skillicons.dev/icons?i=git) 
-![GitHub](https://skillicons.dev/icons?i=github)
+![GitHub](https://skillicons.dev/icons?i=github) 
+![Linux](https://skillicons.dev/icons?i=linux)
+![Apple](https://skillicons.dev/icons?i=apple)
 
-## 📫 Let's Connect!
+---
+
+## 🌐 Let's Connect!
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com)  
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com)  
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com)
 
-Looking forward to building innovative apps together! 🚀
+---
+
+I’m passionate about developing meaningful apps that enhance user experience. Let’s **build something incredible together**! 🌟
