@@ -17,8 +17,6 @@ I’m always on the lookout for **new opportunities**, exciting **collaborations
 ![Android](https://skillicons.dev/icons?i=androidstudio)  
 ![Firebase](https://skillicons.dev/icons?i=firebase) 
 ![AWS](https://skillicons.dev/icons?i=aws) 
-![Hilt](https://skillicons.dev/icons?i=dagger) 
-![Retrofit](https://skillicons.dev/icons?i=retrofit) 
 ![Flutter](https://skillicons.dev/icons?i=flutter) 
 
 ### **Version Control**  
