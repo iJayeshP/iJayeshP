@@ -14,8 +14,7 @@ I’m always on the lookout for **new opportunities**, exciting **collaborations
 ![Python](https://skillicons.dev/icons?i=python)
 
 ### **Frameworks & Tools**  
-![Android](https://skillicons.dev/icons?i=androidstudio) 
-![Jetpack Compose](https://skillicons.dev/icons?i=android)  
+![Android](https://skillicons.dev/icons?i=androidstudio)  
 ![Firebase](https://skillicons.dev/icons?i=firebase) 
 ![AWS](https://skillicons.dev/icons?i=aws) 
 ![Hilt](https://skillicons.dev/icons?i=dagger) 
