@@ -11,32 +11,20 @@ I’m always open to **new opportunities**, exciting **collaborations**, and mea
 ## 🛠️ Tech Stack
 
 ### **Languages**  
-![Kotlin](https://skillicons.dev/icons?i=kotlin) 
-![Java](https://skillicons.dev/icons?i=java) 
-![Python](https://skillicons.dev/icons?i=python)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,python,java&perline=3)](https://github.com/iJayeshPatil)
 
 ### **Frameworks & Tools**  
-![Android Studio](https://skillicons.dev/icons?i=androidstudio) 
-![Flutter](https://skillicons.dev/icons?i=flutter)  
-![Unity](https://skillicons.dev/icons?i=unity)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![AWS](https://skillicons.dev/icons?i=aws)  
-![MySQL](https://skillicons.dev/icons?i=mysql) 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,mysql,aws,unity,flutter&perline=3)](https://github.com/iJayeshPatil)
 
 ### **Development Tools**  
-![VS Code](https://skillicons.dev/icons?i=vscode) 
-![Git](https://skillicons.dev/icons?i=git) 
-![GitHub](https://skillicons.dev/icons?i=github) 
-![Linux](https://skillicons.dev/icons?i=linux)
-![Apple](https://skillicons.dev/icons?i=apple)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,apple,windows&perline=3)](https://github.com/iJayeshPatil)
+
 
 ---
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com)  
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com)  
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayesh8/)  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/842394087474593862)
 
 ---
 
