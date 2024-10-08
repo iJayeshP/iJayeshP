@@ -1,11 +1,34 @@
-<h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
-<h3 align="center">I'm a passionate Computer Science student with a strong interest in mobile app development, looking forward to explore and create some amazing experiences on mobile devices with the core knowledge of computer science.</h3>
+# Hey there! 👋
 
+I'm a **BSc Computer Science** graduate passionate about **native Android app development**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayesh-patil-8i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-patil-8i/" height="30" width="40" /></a>
-</p>
+With a strong focus on creating **intuitive** and **user-centric mobile applications**, I aim to deliver seamless **user experiences** through clean code and thoughtful design. Whether it's solving complex problems or enhancing app performance, I enjoy every part of the development process.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I’m always on the lookout for **new opportunities**, exciting **collaborations**, and meaningful discussions around **mobile app development**. Feel free to connect if you'd like to chat about **potential projects** or share insights.
+
+## 🛠️ Tech Stack
+
+### **Languages**  
+![Kotlin](https://skillicons.dev/icons?i=kotlin) 
+![Java](https://skillicons.dev/icons?i=java) 
+![Python](https://skillicons.dev/icons?i=python)
+
+### **Frameworks & Tools**  
+![Android](https://skillicons.dev/icons?i=androidstudio) 
+![Flutter](https://skillicons.dev/icons?i=flutter) 
+![Firebase](https://skillicons.dev/icons?i=firebase) 
+![AWS](https://skillicons.dev/icons?i=aws) 
+![Hilt](https://skillicons.dev/icons?i=dagger) 
+![Retrofit](https://skillicons.dev/icons?i=retrofit) 
+![Jetpack Compose](https://skillicons.dev/icons?i=android)  
+
+### **Version Control**  
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github)
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com)  
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com)
+
+Looking forward to building innovative apps together! 🚀
