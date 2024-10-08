@@ -15,12 +15,12 @@ I’m always on the lookout for **new opportunities**, exciting **collaborations
 
 ### **Frameworks & Tools**  
 ![Android](https://skillicons.dev/icons?i=androidstudio) 
-![Flutter](https://skillicons.dev/icons?i=flutter) 
+![Jetpack Compose](https://skillicons.dev/icons?i=android)  
 ![Firebase](https://skillicons.dev/icons?i=firebase) 
 ![AWS](https://skillicons.dev/icons?i=aws) 
 ![Hilt](https://skillicons.dev/icons?i=dagger) 
 ![Retrofit](https://skillicons.dev/icons?i=retrofit) 
-![Jetpack Compose](https://skillicons.dev/icons?i=android)  
+![Flutter](https://skillicons.dev/icons?i=flutter) 
 
 ### **Version Control**  
 ![Git](https://skillicons.dev/icons?i=git) 
