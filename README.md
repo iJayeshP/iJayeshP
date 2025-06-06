@@ -1,10 +1,6 @@
-# Hey there! 👋
+# Hey there! I'm Jayesh P. 👋
 
-I'm a **BSc Computer Science** graduate passionate about **native Android app development**.
-
-With a strong focus on creating **intuitive** and **user-centric mobile applications**, I aim to deliver seamless **user experiences** through clean code and thoughtful design. Whether it's solving complex problems or enhancing app performance, I enjoy every part of the development process.
-
-I’m always open to **new opportunities**, exciting **collaborations**, and meaningful discussions about **mobile app development**. Let’s connect and explore how we can create something amazing together! 🚀
+An innovative and detail-oriented Mobile Application Developer with hands-on experience in crafting seamless user experiences across Android and cross-platform environments. 🚀
 
 ---
 
@@ -17,7 +13,7 @@ I’m always open to **new opportunities**, exciting **collaborations**, and mea
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayesh8/)  [![Discord](https://skillicons.dev/icons?i=discord)] (https://discord.com/channels/@me/842394087474593862)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayesh8/)  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/842394087474593862)
 
 ---
 
