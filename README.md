@@ -11,7 +11,7 @@ I’m always open to **new opportunities**, exciting **collaborations**, and mea
 ## 🛠️ Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,mysql,aws,unity,flutter,python,java,vscode,git,github,linux,apple,windows&perline=8)](https://github.com/iJayeshPatil)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,mysql,aws,unity,flutter,python,java,vscode,git,github,linux,apple,windows)](https://github.com/iJayeshPatil)
  
 ---
 
