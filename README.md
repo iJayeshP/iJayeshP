@@ -17,7 +17,7 @@ I’m always open to **new opportunities**, exciting **collaborations**, and mea
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayesh8/)  [![Discord](https://skillicons.dev/icons?i=discord)(https://discord.com/channels/@me/842394087474593862)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayesh8/)  [![Discord](https://skillicons.dev/icons?i=discord)] (https://discord.com/channels/@me/842394087474593862)
 
 ---
 
