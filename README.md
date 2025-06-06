@@ -10,21 +10,14 @@ I’m always open to **new opportunities**, exciting **collaborations**, and mea
 
 ## 🛠️ Tech Stack
 
-### **Languages**  
-[![My Skills](https://skillicons.dev/icons?i=kotlin,python,java&perline=3)](https://github.com/iJayeshPatil)
 
-### **Frameworks & Tools**  
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,mysql,aws,unity,flutter&perline=3)](https://github.com/iJayeshPatil)
-
-### **Development Tools**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,apple,windows&perline=3)](https://github.com/iJayeshPatil)
-
-
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,mysql,aws,unity,flutter,python,java,vscode,git,github,linux,apple,windows&perline=8)](https://github.com/iJayeshPatil)
+ 
 ---
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayesh8/)  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/842394087474593862)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayesh8/)  [![Discord](https://skillicons.dev/icons?i=discord)(https://discord.com/channels/@me/842394087474593862)
 
 ---
 
