@@ -11,6 +11,6 @@ An innovative and detail-oriented Mobile Application Developer with hands-on exp
  
 ---
 
-## 🌐 Let's Connect!
+## 🤝 Let's Connect!
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayesh8/)  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me/842394087474593862)
