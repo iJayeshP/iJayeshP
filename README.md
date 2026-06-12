@@ -1,90 +1,82 @@
-# Hey, I'm Jayesh 👋
+<h1 align="center">Hey, I'm Jayesh 👋</h1>
 
-Mobile Application Developer focused on building apps that feel effortless.
+<p align="center">
+  Mobile Developer • Product Builder • UI/UX Enthusiast
+</p>
 
-My core expertise is native Android development with Kotlin and Jetpack Compose, but I also work across Flutter, Kotlin Multiplatform, and SwiftUI to build modern cross-platform experiences.
-
-I enjoy turning ideas into products, solving real user problems, and creating interfaces that people genuinely enjoy using.
-
----
-
-## Currently Building
-
-🚀 FociArc — A reimagined focus and productivity experience
-
-🍎 Exploring native iOS development with SwiftUI
-
-🌍 Cross-platform applications with Kotlin Multiplatform
-
-🎨 Thoughtful, user-centric mobile experiences
+<p align="center">
+  Crafting apps that feel effortless.
+</p>
 
 ---
 
-## Tech Stack
+### Currently
 
-### Mobile
-- Kotlin
-- Jetpack Compose
-- Android SDK
-- Swift & SwiftUI
-- Flutter
-- Kotlin Multiplatform
+🚀 Building **FociArc**
 
-### Backend & Cloud
-- Firebase
-- Supabase
-- AWS
-- REST APIs
+🍎 Learning **SwiftUI & Apple Foundation Models**
 
-### Tools
-- Android Studio
-- Xcode
-- Git & GitHub
-- Figma
-- Postman
+📱 Creating native experiences with **Kotlin & Jetpack Compose**
+
+🌍 Exploring **Kotlin Multiplatform**
 
 ---
 
-## What I Care About
+### Toolbox
 
-- Great UI/UX
-- Clean Architecture
-- Performance
-- Scalability
-- Developer Experience
-- Product Thinking
+```text
+Android      Kotlin       Jetpack Compose
+SwiftUI      Flutter      Kotlin Multiplatform
 
----
+Firebase     Supabase     AWS
 
-## Featured Projects
-
-### 🚀 FociArc
-Building a modern focus and productivity platform designed to help people do meaningful work with less friction.
-
-### 👨‍💻 Mobile Applications
-Production-ready Android applications built using modern Android development practices and Jetpack Compose.
-
-### 🌍 Cross-Platform Experiments
-Exploring Kotlin Multiplatform and Flutter to share business logic while maintaining native experiences.
+Figma        Git          Postman
+```
 
 ---
 
-## Current Learning Journey
+### What Excites Me
 
-- Advanced SwiftUI
-- Apple Foundation Models
-- Kotlin Multiplatform
-- Mobile Product Design
-- AI-powered Mobile Experiences
+→ Turning ideas into products
 
----
+→ Designing experiences people remember
 
-## Let's Connect
+→ Building polished mobile applications
 
-💼 LinkedIn: https://linkedin.com/in/jayesh8
-
-🌐 Website: https://fociarc.com
+→ Learning new platforms and technologies
 
 ---
 
-> Build products people love. Keep them simple. Make them memorable.
+### Featured Work
+
+📌 FociArc  
+A reimagined focus and productivity experience.
+
+📌 Mobile Apps  
+Production-ready Android applications built with modern architecture.
+
+📌 Experiments  
+SwiftUI, KMP, AI integrations, and product prototypes.
+
+---
+
+### Currently Exploring
+
+- Apple Ecosystem
+- AI-Powered Mobile Apps
+- Product Design
+- Cross-Platform Development
+
+---
+
+### Connect
+
+💼 LinkedIn
+
+🌐 FociArc
+
+---
+
+<p align="center">
+  <i>Build products people love using.</i>
+</p>
