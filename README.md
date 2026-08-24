@@ -3,22 +3,16 @@
 <!-- Animated Typing Header -->
 
 <a href="https://github.com/iJayeshP">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jayesh+%F0%9F%91%8B;Mobile+Developer+%F0%9F%93%B1;Product+Builder+%F0%9F%9A%80;UI%2FUX+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <em>Crafting apps that feel effortless.</em>
-</p>
-
-<br/>
-
-<!-- Social Links -->
-
-<a href="https://www.linkedin.com/in/jayesh8/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=FAFAFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jayesh+%F0%9F%91%8B;Mobile+Developer+%F0%9F%93%B1;Product+Builder+%F0%9F%9A%80;UI%2FUX+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 </div>
+
+<p align="center">
+  From Pixel to Production
+</p>
+
+<br/>
 
 ---
 
@@ -84,6 +78,15 @@ My approach combines **clean architecture, unidirectional data flow, thoughtful 
 <div align="center">
 
 ### ✦ Build. Refine. Ship. ✦
+
+</div>
+
+<!-- Social Links -->
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/jayesh8/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
+</a>
 
 </div>
 
