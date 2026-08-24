@@ -15,7 +15,7 @@
 <!-- Social Links -->
 
 <a href="https://www.linkedin.com/in/jayesh8/">
-  <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -60,11 +60,12 @@
 
 <br/>
 
-### 📈 Contribution Activity
+
+### 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iJayeshP&bg_color=121212&color=FACC15&line=FACC15&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iJayeshP&theme=github_dark" width="95%" />
 
 </div>
 
